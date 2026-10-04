@@ -4,6 +4,22 @@ A professional desktop-based **Currency Converter application built with Java Sw
 
 > **Note:** The application's exchange rates are predefined in the source code. They are not fetched from a live exchange-rate API.
 
+🎯 Problem Statement
+Converting currencies manually can be inconvenient, especially when users need to repeatedly calculate different currency values. Users may also need to remember exchange rates, perform calculations manually, and keep track of previous conversions.
+For a simple desktop application, there was a need for a tool that could bring these tasks together in one easy-to-use interface.
+Problems Addressed
+- Manual currency conversion requires additional calculations.
+- Switching between source and target currencies can be inconvenient.
+- Previous conversion results may be difficult to track.
+- Users may want to save their conversion records for future reference.
+- A basic converter may not provide any additional currency-related information.
+- A simple command-line converter does not provide an interactive user experience.
+
+  
+💡 Solution
+The AI Advanced Currency Converter solves these problems by providing a single desktop application where users can enter an amount, select two currencies, and instantly calculate the converted value.
+The application also provides Swap, Reset, Conversion History, Save History, Dark Mode, and basic rule-based currency insights, making the conversion process more convenient and organized.
+
 
 App dashboard Image:
 <img width="1042" height="858" alt="Screenshot 2026-10-04 220844" src="https://github.com/user-attachments/assets/bf2952ad-6478-4456-bbc7-f212bb5db9c5" />
