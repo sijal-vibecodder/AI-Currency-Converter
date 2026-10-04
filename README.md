@@ -4,7 +4,12 @@ A professional desktop-based **Currency Converter application built with Java Sw
 
 > **Note:** The application's exchange rates are predefined in the source code. They are not fetched from a live exchange-rate API.
 
----
+
+App dashboard Image:
+<img width="1042" height="858" alt="Screenshot 2026-10-04 220844" src="https://github.com/user-attachments/assets/bf2952ad-6478-4456-bbc7-f212bb5db9c5" />
+<img width="1032" height="842" alt="Screenshot 2026-10-04 220910" src="https://github.com/user-attachments/assets/9bf0acdd-edef-436e-a565-58307729bcab" />
+<img width="1030" height="835" alt="Screenshot 2026-10-04 220928" src="https://github.com/user-attachments/assets/c7e42e48-455c-4581-9759-e3633b88af5b" />
+<img width="1031" height="828" alt="Screenshot 2026-10-04 220952" src="https://github.com/user-attachments/assets/cecec124-3b13-415d-a8f1-426967941fa6" />
 
 ## ✨ Features
 
@@ -260,7 +265,7 @@ This project demonstrates practical use of:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Sijal Kumar Sahu
 
 - GitHub: https://github.com/sijal-vibecodder 
 - LinkedIn:  www.linkedin.com/in/sijal-kumar-sahu-0387b4411
